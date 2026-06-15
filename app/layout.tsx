@@ -15,7 +15,7 @@ const cormorant = Cormorant_Garamond({
 })
 
 export const metadata: Metadata = {
-  title: 'Body by Rx | Medical Spa Gilbert, AZ',
+  title: 'Body by Rx | Gilbert Medical Weight Loss Clinic Near Me',
   description:
     'Body by Rx offers medical weight loss, GLP-1 programs, NAD+, Sermorelin, Jeuveau & Dysport in Gilbert, AZ. Real results with personalized care.',
   verification: {
